@@ -1,2 +1,6 @@
 # html-template-beautiful-things
-Верстка только под десктоп. На примере этого макета я изучал и тренировался в принципах верстка БЭМ
+html/css template from free psd layout
+
+Get Free PSD Layout from site http://wegraphics.net/downloads/clean-portfolio-one-page-psd-template/
+
+Create HTML/CSS from PSD
